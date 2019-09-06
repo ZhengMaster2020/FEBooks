@@ -1,6 +1,6 @@
 
 
-# 那些年读过的前端电子书籍:books:（超赞！:boom:）
+# 那些年读过的前端书籍:books:资源分享（超赞！:boom:）
 
 :clap:欢迎转载，但请著明转载来源:point_right:：https://github.com/ZhengMaster2020/FEBooks
 
@@ -291,7 +291,7 @@
 
   > PDF文档下载 
   >
-  > **:link: 链接: https://pan.baidu.com/s/1Ezdr4ycSZVO8duZYVMjtdQ **​  
+  > :link: **链接: https://pan.baidu.com/s/1Ezdr4ycSZVO8duZYVMjtdQ **  
   >
   > :thought_balloon:**提取码: hdmr** 
 
