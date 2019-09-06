@@ -6,7 +6,7 @@
 
 + **《JavaScript高级程序设计》（第三版） 传说中的红宝书**
 
-  ![图片无法显示](https://img3.doubanio.com/view/subject/l/public/s8958650.jpg)
+  ![图片无法显示](./images/001.jpg)
 
   
 
@@ -16,7 +16,7 @@
 
 + **《JavaScript权威指南》 （第六版） 传说中的js圣经**
 
-  ![图片无法显示](https://img3.doubanio.com/view/subject/l/public/s5860151.jpg)
+  ![图片无法显示](./images/002.jpg)
 
   > PDF文件下载链接: https://pan.baidu.com/s/1FYua8MG-3rhqJ0IwP34MoA 提取码: **arbt**
 
@@ -24,7 +24,7 @@
 
 + **《你不知道的JavaScript》（上卷）**
 
-  ![图片无法显示](https://img3.doubanio.com/view/subject/l/public/s28033372.jpg)
+  ![图片无法显示](./images/003.jpg)
 
   > PDF文件下载链接: https://pan.baidu.com/s/1mPVRBY9m-HV8da1H-KYH1A  提取码: **pyer** 
 
@@ -32,7 +32,7 @@
 
 + **《你不知道的JavaScript》（中卷）**
 
-  ![图片无法显示](https://img3.doubanio.com/view/subject/l/public/s28969600.jpg)
+  ![图片无法显示](./images/004.jpg)
 
   > PDF文件下载链接: https://pan.baidu.com/s/1Y7553bvryPOvNCBk9YVTDw 提取码: **dser**
 
@@ -40,7 +40,7 @@
 
 + **《你不知道的JavaScript》（下卷）**
 
-  ![图片无法显示](http://file.ituring.com.cn/ScreenShow/171209db19f1a52dcb95)
+  ![图片无法显示](./images/005.jpg)
 
   > PDF文件下载链接: [https://pan.baidu.com/s/1NkZuPzEHZU6B_E-sR8mmpA](https://pan.baidu.com/s/1NkZuPzEHZU6B_E-sR8mmpA)  提取码: **c3gr** 
 
