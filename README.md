@@ -78,6 +78,26 @@
   >
   > 链接: **https://pan.baidu.com/s/1LX1PuoMyUQ0giBaX_xD2sQ**  提取码: **cin5** 
 
++ **《Typescript教程入门指南》**
+
+  ![1591779603946](C:\Users\lizheng\AppData\Roaming\Typora\typora-user-images\1591779603946.png)
+
+  > 线上阅读链接： http://ts.xcatliu.com/
+  >
+  > PDF文档下载：
+  >
+  > 链接: https://pan.baidu.com/s/1Yt3JTVv2jfQjmPVFc22XbQ  提取码: **vghm**
+
++ **《Learning TypeScript 中文版》**
+
+  ![Learning Ts img](https://img9.doubanio.com/view/subject/l/public/s29131125.jpg)
+
+  > PDF文档下载
+  >
+  > 链接: https://pan.baidu.com/s/1Z4-TtppBlxRFCy53BLTfYg  提取码: **ipv2**
+
+  
+
 + 《数据结构与算法》 JavaScript描述版
 
 ![图片无法显示](/images/0000.jpg)
@@ -85,6 +105,8 @@
 > PDF文档下载：
 >
 > 链接: **https://pan.baidu.com/s/1Fkj41FhcJowVZ3MIiz7A3Q**  提取码: **yqhn** 
+
+
 
 
  ### 2. HTML与CSS的入门到放弃的书籍
@@ -294,7 +316,6 @@
   > :link: **链接: https://pan.baidu.com/s/1Ezdr4ycSZVO8duZYVMjtdQ **  
   >
   > :thought_balloon:**提取码: hdmr** 
-
 
 
 持续更新中。。。
